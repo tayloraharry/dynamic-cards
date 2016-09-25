@@ -1,0 +1,8 @@
+#cards div {
+  width: 10em;
+  height: 10em;
+  border: 1px solid black;
+  background-color: tomato;
+  display: inline-block;
+}
+
